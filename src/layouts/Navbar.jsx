@@ -50,7 +50,7 @@ const Navbar = () => {
             <img
               src={logoImg}
               alt="EnglishMastery"
-              className="h-h-20 w-auto rounded-xl object-contain"
+              className="h-20 w-auto rounded-xl object-contain"
             />
             <span className={clsx("font-bold text-xl text-textPrimary", isRTL && "font-arabic")}>
               EnglishMastery
